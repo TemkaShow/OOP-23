@@ -1,0 +1,14 @@
+E:\Udemy Study\Sharps\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy Study\Sharps\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.AssemblyInfoInputs.cache
+E:\Udemy Study\Sharps\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.AssemblyInfo.cs
+E:\Udemy Study\Sharps\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.csproj.CoreCompileInputs.cache
+E:\Udemy Study\Sharps\Lab 2\Lab 2\bin\Debug\net8.0\Lab 2.exe
+E:\Udemy Study\Sharps\Lab 2\Lab 2\bin\Debug\net8.0\Lab 2.deps.json
+E:\Udemy Study\Sharps\Lab 2\Lab 2\bin\Debug\net8.0\Lab 2.runtimeconfig.json
+E:\Udemy Study\Sharps\Lab 2\Lab 2\bin\Debug\net8.0\Lab 2.dll
+E:\Udemy Study\Sharps\Lab 2\Lab 2\bin\Debug\net8.0\Lab 2.pdb
+E:\Udemy Study\Sharps\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.dll
+E:\Udemy Study\Sharps\Lab 2\Lab 2\obj\Debug\net8.0\refint\Lab 2.dll
+E:\Udemy Study\Sharps\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.pdb
+E:\Udemy Study\Sharps\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.genruntimeconfig.cache
+E:\Udemy Study\Sharps\Lab 2\Lab 2\obj\Debug\net8.0\ref\Lab 2.dll
